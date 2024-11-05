@@ -16,3 +16,5 @@ jobs:
       - name: Launch Docker Compose Services
         run: |
           sudo docker compose up -d
+
+          
